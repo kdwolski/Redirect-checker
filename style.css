@@ -1,0 +1,18 @@
+body{background:#eee;width:100%;height:100%;font:16px 'Segoe UI',Arial,Helvetica,sans-serif;color:#444}
+    a{color:#33F;text-decoration:none}
+        a:hover{text-decoration:underline}
+    
+    #wrapper{width:900px;padding:20px;background:#fff;border:1px solid #aaa;margin:auto}
+        form{width:100%;margin:0 auto}
+            input{width:892px;padding:4px 0;font-size:20px}
+        #results{}
+            .loading{display:block;width:220px;height:19px;margin:0 auto}
+            #results ul{list-style:none;margin:0;padding:0}
+            #results li{clear:both;border-bottom:1px solid #aaa;list-style:none;margin:0;padding:0}
+                h2{font-weight:400;margin:20px 0 10px;padding:0;line-height:16px;color:#33f}
+                .location{padding:0 0 20px;width:70%;float:left}
+                    .externallink{padding:0 0 0 5px}
+                .response{width:30%;float:left;font-style:italic}
+                p.subtle{color:#777;font-size:14px}
+    .footer{width:900px;text-align:center;font-size:14px;margin:15px auto}
+.floatfix{clear:both}
