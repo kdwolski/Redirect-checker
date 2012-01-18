@@ -1,0 +1,10 @@
+=== Redirect-checker ===
+
+A simple PHP app to trace the redirect steps of each URL in a list. The resulting display has been enhanced with color coding/icons for quick easy analysis. 
+
+NOTE: There is no restriction on the number of URLs that can be entered in the text area. Timeouts may occur on large lists of URLs. 
+This is dependent on your PHP server timeout setting. http://www.php.net/manual/en/info.configuration.php#ini.max-execution-time
+
+== Credits ==
+This version has been modified from nicbou / Redirect-checker: https://github.com/nicbou/Redirect-checker
+Skull and Flag Icons by GLIPHISH -  http://glyphish.com/
